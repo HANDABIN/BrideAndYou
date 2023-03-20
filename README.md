@@ -1,2 +1,2 @@
 # BrideAndYou
-https://hwangyunji.github.io/BrideAndYou/
+ https://handabin.github.io/BrideAndYou/
